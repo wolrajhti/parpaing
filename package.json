@@ -1,0 +1,24 @@
+{
+  "name": "parpaing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "npm run build && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolrajhti/parpaing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolrajhti/parpaing/issues"
+  },
+  "homepage": "https://github.com/wolrajhti/parpaing#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
